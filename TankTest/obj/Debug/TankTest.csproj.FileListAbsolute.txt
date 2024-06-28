@@ -1,0 +1,10 @@
+C:\C#\TankTest\TankTest\bin\Debug\TankTest.exe.config
+C:\C#\TankTest\TankTest\bin\Debug\TankTest.exe
+C:\C#\TankTest\TankTest\bin\Debug\TankTest.pdb
+C:\C#\TankTest\TankTest\obj\Debug\TankTest.csproj.AssemblyReference.cache
+C:\C#\TankTest\TankTest\obj\Debug\TankTest.Form1.resources
+C:\C#\TankTest\TankTest\obj\Debug\TankTest.Properties.Resources.resources
+C:\C#\TankTest\TankTest\obj\Debug\TankTest.csproj.GenerateResource.cache
+C:\C#\TankTest\TankTest\obj\Debug\TankTest.csproj.CoreCompileInputs.cache
+C:\C#\TankTest\TankTest\obj\Debug\TankTest.exe
+C:\C#\TankTest\TankTest\obj\Debug\TankTest.pdb
